@@ -3,7 +3,7 @@ import { useState } from "react"
 const WheatherApp = () => {
 
     const urlBase = 'https://api.openweathermap.org/data/2.5/weather'
-    const API_KEY = 'e4532f2cfdb1e323fc1ab826464c0f19'
+    const API_KEY = 'INSERT_YOUR_API_KEY'
 
     const difKelvin = 273.15
 
